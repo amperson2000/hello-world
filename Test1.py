@@ -23,6 +23,3 @@ else:
 
     print(f"前 {n} 个斐波那契数列为：")
     print(fib)
-    print('First part')
-    print('Second part')
-    print('Third part')
